@@ -75,7 +75,11 @@ intents = {"intents":
         {"tag":"objetivos",
          "patterns": ["Qual seu sonho","Qual seu maior objetivo"],
          "responses": ["Meu sonho é conquistar a liberdade financeira","Meu maior objetivo é ser um bom programador"]
-        }
+        },
+        {"tag":"signo",
+         "patterns": ["Qual seu signo","Você acredita em signos","Qual seu signo do zodíaco"],
+         "responses": ["Sou de peixes","Sou de peixes, mas não acredito em signos"]
+         }
    ]
 }
 print('Base de treinamento criada!')
