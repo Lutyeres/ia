@@ -17,7 +17,7 @@ intents = {"intents":
          "responses": ["Feliz em te ajudar!", "Precisar estamos aqui", "O prazer é meu =D"]
         },
         {"tag": "ofender",
-         "patterns": ["Você é feio", "Não gosto de vc", "vc é chato"],
+         "patterns": ["Você é feio", "Não gosto de vc", "vc é chato","Voce é burro"],
          "responses": ["Não ligo!", "E o kiko?","E daí?"]
         },
 		    {"tag": "puxar assunto",
